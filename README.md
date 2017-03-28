@@ -18,8 +18,6 @@ Running this tutorial requires installation of the following packages. In most (
     Cython
     gensim
 
-Word2Vec can be found in the gensim package. Note that we have only successfully run this tutorial on Mac OS X so far, not Windows.
-
-If you run into problems installing packages on Mac Mavericks (10.9), this tutorial contains instructions for setting up your system properly.
+Word2Vec can be found in the gensim package. Note that we have only successfully run this tutorial on Mac OS X/Linux so far, not Windows.
 
 The code in this tutorial was developed for Python 2.7.
